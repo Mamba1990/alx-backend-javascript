@@ -1,4 +1,4 @@
-import StudentHolberton from './9-student_holberton.js';
+import StudentHolberton from './9-student_holberton';
 
 /* eslint-disable no-underscore-dangle */
 export class HolbertonClass {
